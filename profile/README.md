@@ -37,7 +37,7 @@
 ## 📬 Contact & Collaboration
 
 Interested in partnering, investing, or contributing? Reach out to us:  
-**team@dramastory.app**
+**team@thedramahouse.com**
 
 ---
 
