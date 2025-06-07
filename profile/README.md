@@ -17,7 +17,7 @@
 - **Backend:** Serverless (AWS Lambda, API Gateway, DynamoDB, Cognito)
 - **Frontend:** Next.js / React with SEO and UX optimizations
 - **CI/CD:** GitHub Actions for automated deployment
-- **Multi-environment:** Isolated `dev`, `staging`, and `production` stages
+- **Multi-environment:** Isolated `dev`, and `production` stages
 
 ---
 
